@@ -1,0 +1,28 @@
+
+title: "Tarek Omar"
+email: "tarekomar.specs@gmail.com"
+description: >- 
+  Associate Director – Tendering & Specifications at MIMAR.
+baseurl: ""
+url: "https://tarek-omar.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-include-cache
+minimal_mistakes_skin: "air" # light clean skin
+author:
+  name: "Tarek Omar"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Specs & Tendering | Gulf + Egypt | FF&E Strategy"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tarek-omar-vma-5280a994/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:tarekomar.specs@gmail.com"
+paginate: 5
+paginate_path: /page:num/
+    
